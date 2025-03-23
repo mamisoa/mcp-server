@@ -9,6 +9,7 @@ readme = "README.md"
 python = "^3.12"
 mcp = {extras = ["cli"], version = "^1.4.1"}
 logging = "^0.4.9.6"
+pygame = "^2.6.1"
 
 
 [build-system]
